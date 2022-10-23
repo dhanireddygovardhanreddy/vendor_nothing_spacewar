@@ -1404,9 +1404,6 @@ PRODUCT_COPY_FILES += \
     vendor/nothing/Spacewar/proprietary/vendor/etc/thermal.super.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal.super.conf \
     vendor/nothing/Spacewar/proprietary/vendor/etc/usb_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/usb_audio_policy_configuration.xml \
     vendor/nothing/Spacewar/proprietary/vendor/etc/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/video_system_specs.json \
-    vendor/nothing/Spacewar/proprietary/vendor/etc/vintf/manifest_lahaina.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest_lahaina.xml \
-    vendor/nothing/Spacewar/proprietary/vendor/etc/vintf/manifest_shima.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest_shima.xml \
-    vendor/nothing/Spacewar/proprietary/vendor/etc/vintf/manifest_yupik.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest_yupik.xml \
     vendor/nothing/Spacewar/proprietary/vendor/etc/vmmgr.conf:$(TARGET_COPY_OUT_VENDOR)/etc/vmmgr.conf \
     vendor/nothing/Spacewar/proprietary/vendor/etc/wfdconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/wfdconfig.xml \
     vendor/nothing/Spacewar/proprietary/vendor/etc/wifi/aoa_cldb_falcon.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/aoa_cldb_falcon.bin \
