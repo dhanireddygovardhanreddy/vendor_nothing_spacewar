@@ -75,6 +75,9 @@ message sns_proximity_event
 
   // Proimity sensor far threshold
   required uint32 proximity_far_thd = 6;
+
+  // Proimity sensor factory base
+  required uint32 proximity_fac_base = 7;
 }
 
 message sns_proximity_event_recurrent
